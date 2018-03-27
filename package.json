@@ -1,0 +1,32 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackLaird0/TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackLaird0/TDD/issues"
+  },
+  "homepage": "https://github.com/JackLaird0/TDD#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.18.2",
+    "mocha": "^5.0.4"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^4.1.1"
+  }
+}
